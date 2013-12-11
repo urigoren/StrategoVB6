@@ -1,0 +1,4 @@
+VBGROUP 5.0
+StartupProject=Stratego.vbp
+Project=builder\Stratego_builder.vbp
+Project=skins\Skin_selector.vbp

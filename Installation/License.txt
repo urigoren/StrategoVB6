@@ -1,0 +1,22 @@
+Uri Goren's Web Stratego
+
+ASP Development tool, made by Uri Goren
+
+All rights reserved 
+
+Please approve the following terms
+ 
+1. All copyrights to 'Web Stratego' are exclusively owned by the author
+      - Uri Goren.
+2. I take full responsibillity for any damage caused by this product to my computer or any other.
+3. I will not use any technology such as dis-assembling, revese engeering and decompiling of any kind.
+4. THE Software IS DISTRIBUTED "AS IS".  NO WARRANTY OF ANY
+      KIND IS EXPRESSED OR IMPLIED.  YOU USE AT YOUR OWN RISK.
+      NEITHER THE AUTHOR NOR THE AGENTS OF THE AUTHOR WILL BE LIABLE 
+      FOR DATA LOSS, DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS
+      WHILE USING OR MISUSING THIS SOFTWARE.
+5. Installing and using' Web Stratego' signifies acceptance of these terms
+      and conditions of the license.
+
+6. If you do not agree with the terms of this license you must remove
+      RAR files from your storage devices and cease to use the product.

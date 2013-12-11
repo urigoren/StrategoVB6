@@ -1,0 +1,58 @@
+
+
+How to build a strategy ?
+right click a certin place and select the pawn you wish to put in it.
+afterwards, save the strategy in a strategy file by clicking 'save' and quit the software.
+
+
+
+
+
+
+
+
+
+how to load a strategy ?
+Before every game, you must load a game strategy.
+Click on the button 'load' and browse for your strategy file.
+
+How to create a connection ?
+There are two possible ways to make a connection
+1. hosting a game, (Plays second)
+After loading you strategy, click on the button captioned 'Host a game' and wait for connection.
+You'll need to send your opponent your IP Address.
+in order to get your IP address, click:
+Start->Run->Cmd->ipconfig
+2. Connecting (Starts the game)
+Enter your opponent's IP in the textbox captioned 'user's ip' and click the button 'Connect'
+wait for a message box notifying connection success or failure.
+
+How to move ?
+Very easy, click on the pawn you wish to move
+then click on the desired destanation, and click on the button named 'OK'
+
+
+
+
+
+
+
+
+
+
+How to Chat ?
+Write your message in the small text box and then click 'Send'.
+The entire protocol will be shown in the big textbox above.
+In order to clear that protocol, click on the button captioned 'CLR'.
+
+
+
+
+
+
+
+
+
+How to change a skin ??
+Run the Skin selector, choose a skin package from the list.
+And click 'OK' for the deployment of that skin.

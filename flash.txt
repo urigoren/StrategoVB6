@@ -1,0 +1,13 @@
+1. About
+2. Help-Connection,About,Rules,Contact
+3. Bomb
+4. Victory
+5. Defeat
+6. Draw
+7. Battle
+8. Splash
+9. How to create a new skin
+
+*. Let Or create a second Skin
+ 
+**. Maybe build a simple Website
